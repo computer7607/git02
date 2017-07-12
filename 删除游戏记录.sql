@@ -1,4 +1,3 @@
---feature1
 select * from GM_AWARD_FILE where GAME_CODE = '0312' ;
 select * from GM_GAME_BUSI_STATUS where GAME_CODE = '0312' ;
 select * from GM_PRIZE_LEVEL_FILE t where game_code = '0312' ;
