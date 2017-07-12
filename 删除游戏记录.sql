@@ -97,3 +97,4 @@ select * from gm_transport_file_detail t where t.game_code='0408';--gm_transport
 select t.row_id,t.trans_no,t.import_type_code,t.import_type_name,t.import_file_name from gm_import_file_his t where t.game_code='0408';
 ----------------------------------
 
+--master
